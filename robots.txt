@@ -1,1 +1,4 @@
-create a robot file
+User-agent: *
+Allow: /
+
+Sitemap: https://yourdomain.com/sitemap.xml
